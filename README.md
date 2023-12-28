@@ -14,6 +14,7 @@ Welcome to the Pizza Sales Report project! Leveraging SQL for data analysis and 
 - Getting Started
 - Data Analysis with SQL
 - Creating Dashboards with Power BI
+- Drive Link to Datasets
 - Dashboard Overview
 - How to Use the Dashboard
 - Dashboard Images
@@ -26,7 +27,7 @@ Welcome to the Pizza Sales Report project! Leveraging SQL for data analysis and 
 - Identify top-selling pizzas
 
 ## Getting Started
-#### Data Analysis with SQL
+## Data Analysis with SQL
 - Scripts and queries in `Sales_Queries.sql`
   
 ## Creating Dashboards with Power BI
