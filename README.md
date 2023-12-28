@@ -13,31 +13,31 @@ Welcome to the Pizza Sales Report project! Leveraging SQL for data analysis and 
 - Contributors
 - Feedback and Contributions
 
-### Features
+## Features
 - Explore daily/monthly trends
 - Analyze sales by category/size
 - Identify top-selling pizzas
 
-### Getting Started
+## Getting Started
 #### Data Analysis with SQL
 - Scripts and queries in `Sales_Queries.sql`
   
-#### Creating Dashboards with Power BI
+## Creating Dashboards with Power BI
 - Dashboard images in `Dashboards` folder (PNG format)
 
-### Drive Link to Datasets
+## Drive Link to Datasets
 - [Google Drive Link](https://drive.google.com/drive/folders/1q4biuKj2hR4Z1fRzKy0Jhr3ZDkBPlpYY?usp=sharing)
 
-### Dashboard Overview
+## Dashboard Overview
 - Daily/Monthly Trends
 - Pizza Category/Size Analysis
 - Top/Least-Selling Pizzas
 
-### How to Use the Dashboard
+## How to Use the Dashboard
 - Open `Dashboards` folder to view dashboard images
 - Click on images to explore the dashboard snapshots
 
-### Dashboard Images
+## Dashboard Images
 To explore, 
 click the below link and
 click the rightmost option inverted triangle then 
@@ -47,9 +47,9 @@ select "GitHub Dev,"
 ![Home](Dashboards/Pizza_Sales_Home.png)
 ![Best and Worst Sellers](Dashboards/Best_and_Worst_Sellers.png)
 
-### Contributors
+## Contributors
 - Praveen M
 
-### Feedback and Contributions
+## Feedback and Contributions
 - Open issues or PRs for improvements
 - Your contributions are valued!
