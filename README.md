@@ -26,7 +26,7 @@ Welcome to the Pizza Sales Report project! Leveraging SQL for data analysis and 
 - Dashboard images in `Dashboards` folder (PNG format)
 
 ### Drive Link to Datasets
-- [Google Drive Link](https://drive.google.com/file/d/1Z7KZLH6ntMlPiutBFwrMAVfNllkXJjjm/view?usp=sharing)
+- [Google Drive Link](https://drive.google.com/drive/folders/1q4biuKj2hR4Z1fRzKy0Jhr3ZDkBPlpYY?usp=sharing)
   
 ### Dashboard Overview
 - Daily/Monthly Trends
