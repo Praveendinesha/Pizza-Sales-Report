@@ -39,11 +39,10 @@ Welcome to the Pizza Sales Report project! Leveraging SQL for data analysis and 
 
 ## Dashboard Images
 To explore, 
-click the below link and
-click the rightmost option inverted triangle then 
-click "Open with..." option, 
-select "GitHub Dev," 
-
+- click the below link and
+- click the rightmost option inverted triangle then 
+- click "Open with..." option, 
+- select "GitHub Dev," 
 ![Home](Dashboards/Pizza_Sales_Home.png)
 ![Best and Worst Sellers](Dashboards/Best_and_Worst_Sellers.png)
 
