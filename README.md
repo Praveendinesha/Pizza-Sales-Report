@@ -38,8 +38,8 @@ Welcome to the Pizza Sales Report project! Leveraging SQL for data analysis and 
 - Click on images to explore the dashboard snapshots
 
 ### Dashboard Images
-![Home](Dashboards/dashboard1.png)
-![Best and Worst Sellers](Dashboards/dashboard2.png)
+![Home](Pizza_Sales_Home.png)
+![Best and Worst Sellers](Dashboards/Best_and_Worst_Sellers.png)
 
 ### Contributors
 - Praveen M
