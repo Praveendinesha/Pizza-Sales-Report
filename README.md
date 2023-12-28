@@ -2,7 +2,7 @@
 
 Welcome to the Pizza Sales Report project! Leveraging SQL for data analysis and Power BI for dynamic visualizations, this project offers insights into daily/monthly trends, pizza sales by category/size, and top-selling pizzas based on revenue, quantity, and total orders.
 
-## Dashboard
+## Dashboards
 ### Home
 ![Screenshot 2023-12-28 222000](https://github.com/Praveendinesha/Pizza-Sales-Report/assets/142248403/654bf87f-f651-4204-b304-d16e6c8f3458)
 
