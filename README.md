@@ -7,7 +7,7 @@ Welcome to the Pizza Sales Report project! Leveraging SQL for data analysis and 
 ![Screenshot 2023-12-28 222000](https://github.com/Praveendinesha/Pizza-Sales-Report/assets/142248403/654bf87f-f651-4204-b304-d16e6c8f3458)
 
 ### Best & Worst Sellers
-
+![Screenshot 2023-12-28 193721](https://github.com/Praveendinesha/Pizza-Sales-Report/assets/142248403/532f63b8-6570-42fa-91d2-bb5c4f19a28b)
 
 ## Table of Contents
 - Features
